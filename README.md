@@ -44,7 +44,3 @@
 <img src="https://raw.githubusercontent.com/yzhedwin/yzhedwin/blob/output/snake.svg" alt="Snake animation" />
 
 ###
-
-![Alt text](https://spotify-recently-played-readme.vercel.app/api?user=11138775991&unique={true|1|on|yes})
-
-###
