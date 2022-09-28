@@ -1,7 +1,7 @@
 <div align="center">
  <img src="https://zizo-spotify.herokuapp.com/?" alt="Widget with the current Spotify song"  />
 </div>
-###
+
 
 <h2 align="center">Hi 👋! My name is Edwin and I'm a Computer Engineering major from National University of Singapore</h2>
 
