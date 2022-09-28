@@ -1,5 +1,7 @@
 <h2 align="left">Hi 👋! My name is Edwin and I'm a Computer Engineering major from National University of Singapore</h2>
-
+<div align="center">
+  <img src="https://zizo-spotify.herokuapp.com/?" alt="Widget with the current Spotify song"  />
+</div>
 ###
 
 <div align="center">
