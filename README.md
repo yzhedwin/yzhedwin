@@ -1,7 +1,9 @@
-<h2 align="left">Hi 👋! My name is Edwin and I'm a Computer Engineering major from National University of Singapore</h2>
 <div align="center">
   <img src="https://zizo-spotify.herokuapp.com/?" alt="Widget with the current Spotify song"  />
 </div>
+
+<h2 align="left">Hi 👋! My name is Edwin and I'm a Computer Engineering major from National University of Singapore</h2>
+###
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false&custom_title=Stats&username=yzhedwin" height="150" alt="stats graph"  />
