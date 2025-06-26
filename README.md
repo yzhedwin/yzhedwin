@@ -28,7 +28,7 @@
 
 <img align="right" src="https://media-exp1.licdn.com/dms/image/C4E03AQGl15fII2P1aQ/profile-displayphoto-shrink_800_800/0/1654678451069?e=1669852800&v=beta&t=_EaU2uMEGQ6bN0yiV8CWuOoY3cVy6A3JQFXMKFvQHxs" height="150" />
 
-### 🛠 Tech Stack
+## 🛠 Tech Stack
 ### ☁️ Cloud & DevOps
 
 <div align="left">
@@ -64,7 +64,7 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/fastapi/fastapi-original.svg" height="30" alt="FastAPI" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" height="30" alt="MongoDB" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/apachekafka/apachekafka-original.svg" height="30" alt="Apache Kafka" />
-  <img src="https://img.shields.io/badge/RTI?style=flat-square&link=https%3A%2F%2Fwww.rti.com%2F" alt="RTI Badge" />
+  <img src="https://img.shields.io/badge/RTI%20DDS-blue?style=plastic" alt="RTI Badge" />
 </div>
 
 ---
