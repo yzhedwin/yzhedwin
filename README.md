@@ -4,7 +4,7 @@
 ### 🎯 What I care about
 
 - Creating intuitive tools that make everyday tasks easier.
-- Designing clean, maintainable code in both web and desktop environments.
+- Designing clean, maintainable code.
 - Building full-stack and cloud-native solutions with modern best practices.
 
 ---
