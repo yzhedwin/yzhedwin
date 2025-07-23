@@ -1,11 +1,14 @@
 
 <h2 align="center">Hello I'm Edwin - looking to make a difference with code</h2>
 
-### 🎯 What I care about
+I'm a **software engineer** passionate about building modern web apps, backend services, and automating everything I can.  
+I love crafting clean architecture, exploring new tech, and shipping code that solves real problems.
 
-- Creating intuitive tools that make everyday tasks easier.
-- Designing clean, maintainable code.
-- Building full-stack and cloud-native solutions with modern best practices.
+📈 **Current Focus:**
+- Building a reactive microservice ecosystem with **Spring**
+- Scaling infrastructure with **K3s + Cloudflare Tunnel**
+- Automating deployments using **Ansible + Terraform**
+- Creating fun and practical apps with **Expo + React + FastAPI**
 
 ---
 
