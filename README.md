@@ -9,14 +9,15 @@ I love crafting clean architecture, exploring new tech, and shipping code that s
 - Scaling infrastructure with **K3s + Cloudflare Tunnel**
 - Automating deployments using **Ansible + Terraform**
 - Creating fun and practical apps with **Expo + React + FastAPI**
+- Trying out Expo + React + Supabase
 
 ---
 
 ### 🚀 What I'm working on
 
+- **💰 [Moni](https://github.com/yzhedwin/sh-moni-app)** – A cross platform expense tracker app built with React Native and Expo.
+- **💰 [Buggy](https://github.com/prosh2/sh-buggy-app)** – A PWA Web App to split your bills.
 - **🏃‍♂️ [Datrun](https://github.com/prosh2/datrun)** – A cross platform fitness app built with React Native and Expo.
-- **💻 [PeerCode](https://github.com/yzhedwin/sh-peercode-app)** - a collaborative pair programming platform designed to solve LeetCode-style coding challenges in real-time.
-
 ---
 
 <div align="center">
